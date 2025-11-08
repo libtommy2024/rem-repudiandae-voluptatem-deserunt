@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/rem-repudiandae-voluptatem-deserunt",
-  "version": "22.45.497",
+  "version": "22.45.498",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -178,5 +178,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/rem-repudiandae-voluptatem-deserunt/issues"
   },
-  "packageManager": "yarn@4.10.3"
+  "packageManager": "yarn@4.11.0"
 }
